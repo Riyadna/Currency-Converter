@@ -424,7 +424,7 @@ function App() {
           </div>
           <div className="result">
             <p>
-              {amount} {fromCurrency} is Egual to {convertAmount} {toCurrency}
+              {amount} {fromCurrency} is Equal to {convertAmount} {toCurrency}
             </p>
           </div>
         </div>
